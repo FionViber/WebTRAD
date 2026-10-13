@@ -1,0 +1,20 @@
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+  X-Content-Type-Options: nosniff
+/portable-payload/*
+  Cache-Control: public, max-age=31536000, immutable
+/asset-manifest.json
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/index.js
+  Cache-Control: no-cache
+/asset-loader.js
+  Cache-Control: no-cache
+/static-shell.js
+  Cache-Control: no-cache
+/portable-transport.js
+  Cache-Control: no-cache
+/portable-index.js
+  Cache-Control: no-cache
